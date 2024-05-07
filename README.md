@@ -1,4 +1,4 @@
-# Top 1000 youtube chanels data analysis.
+# Top 1000 youtube channels data analysis.
 Overview
 This project involves analyzing data from the top 1000 YouTube channels worldwide. The analysis includes various stages such as data collection, cleaning, analysis, deriving business insights, and making recommendations based on the findings.
 
